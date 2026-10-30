@@ -161,6 +161,6 @@ shania.make_payment(500)
 # Display final balances
 print("\n--- FINAL BALANCES ---")
 
-print("Eric:", shania.check_balance())
-print("John:", ella.check_balance())
+print("Shania:", shania.check_balance())
+print("Ella:", ella.check_balance())
 print("Shop:", shop.check_balance())
